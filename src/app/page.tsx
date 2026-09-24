@@ -20,7 +20,7 @@ export default function Home() {
     <main className="min-h-screen bg-zinc-950 text-white p-6 md:p-12">
       <header className="max-w-6xl mx-auto flex justify-between items-center">
         <div className="flex items-center gap-3">
-          <img src="/logo.png" alt="ViralShop AI" className="h-8 w-auto" />
+          <img src="/logo.png" alt="ViralShop AI" className="h-10 w-auto bg-white rounded-lg p-1" />
           <h1 className="font-bold text-xl">ViralShop AI</h1>
         </div>
         <span className="text-xs bg-white text-black px-3 py-1 rounded-full">Case Grupo Boticario</span>
